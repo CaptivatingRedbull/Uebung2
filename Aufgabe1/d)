@@ -1,0 +1,2 @@
+Der gesamte Code wird als Kommentar erfasst. 
+Der Compiler wirft einen Fehler, da der Kommentar nie beendet wird.
